@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/sistema_autogestion")
 public class EstudiantesControlador {
 
     private final EstudiantesServicios estudiantesServicios;
