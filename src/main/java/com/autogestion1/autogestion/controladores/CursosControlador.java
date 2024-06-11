@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/sistema_autogestion")
+@RequestMapping("/sistema_autogestion") //
 public class CursosControlador {
 
     @Autowired
