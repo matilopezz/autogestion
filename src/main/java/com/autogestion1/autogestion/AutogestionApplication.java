@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AutogestionApplication {
 
 
-	//prueba de git
+
 	public static void main(String[] args) {
 		SpringApplication.run(AutogestionApplication.class, args);
 	}
